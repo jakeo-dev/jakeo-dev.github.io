@@ -1,4 +1,4 @@
-# Jake's Personal Website
+### jake's personal website (for Hack4Impact)
 This is a personal website built using the Hack4Impact Starter Pack!
 
 
